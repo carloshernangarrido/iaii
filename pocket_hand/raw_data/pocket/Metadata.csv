@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs
+3,moto g32,1715114148419,2024-05-07_20-35-48,America/Argentina/Buenos_Aires,android,1.18.1,815c0aef-9b4b-453d-8616-2ccca36d3550,Accelerometer|Annotation|TotalAcceleration|AccelerometerUncalibrated,10||10|10
